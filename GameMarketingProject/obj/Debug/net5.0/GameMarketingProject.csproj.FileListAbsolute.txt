@@ -1,0 +1,16 @@
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\bin\Debug\net5.0\GameMarketingProject.exe
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\bin\Debug\net5.0\GameMarketingProject.deps.json
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\bin\Debug\net5.0\GameMarketingProject.runtimeconfig.json
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\bin\Debug\net5.0\GameMarketingProject.runtimeconfig.dev.json
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\bin\Debug\net5.0\GameMarketingProject.dll
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\bin\Debug\net5.0\GameMarketingProject.pdb
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\GameMarketingProject.csproj.AssemblyReference.cache
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\GameMarketingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\GameMarketingProject.AssemblyInfoInputs.cache
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\GameMarketingProject.AssemblyInfo.cs
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\GameMarketingProject.csproj.CoreCompileInputs.cache
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\GameMarketingProject.dll
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\refint\GameMarketingProject.dll
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\GameMarketingProject.pdb
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\GameMarketingProject.genruntimeconfig.cache
+C:\Users\Efe\source\repos\GameMarketingProject\GameMarketingProject\obj\Debug\net5.0\ref\GameMarketingProject.dll
